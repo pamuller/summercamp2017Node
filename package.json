@@ -1,0 +1,22 @@
+{
+  "name": "SummercampNode",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "cookie-parser": "*",
+    "cors": "*",
+    "debug": "*",
+    "express": "*",
+    "morgan": "*",
+    "nodemailer": "^2.5.0",
+    "orientjs": "*",
+    "serve-favicon": "*",
+    "formidable":"*",
+    "express-session":"*",
+    "mime-types":"*"
+  }
+}
